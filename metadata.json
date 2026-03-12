@@ -1,0 +1,5 @@
+{
+  "name": "Route Details Generator",
+  "description": "Generate route details image from text input",
+  "requestFramePermissions": []
+}
